@@ -36,9 +36,6 @@ Sempre fui apaixonado por Tecnologia e resolvi enfrentar todas as dificuldades d
 
 ### Github Status
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrosimonato&show_icons=true&hide=prs,contribs&theme=gotham)
-
-### Linguagens mais usadas
-[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosimonato&layout=compact)](https://github.com/leandrosimonato/github-readme-stats)
  
 
 <!--
